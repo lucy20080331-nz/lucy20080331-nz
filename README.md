@@ -6,7 +6,7 @@ I enjoy building practical solutions that connect data engineering, analytics, A
 
 ## ⭐ Featured Project: NZ AI News Monitor
 
-[![NZ AI News Monitor architecture and technology stack](./nz-ai-news-monitor-preview.jpg)](https://github.com/lucy20080331-nz/nz-ai-news-monitor)
+[![NZ AI News Monitor architecture and technology stack](./nz-ai-news-monitor-social-preview.png)](https://github.com/lucy20080331-nz/nz-ai-news-monitor)
 
 An automated data and AI intelligence platform that collects New Zealand AI news, transforms and validates it in Snowflake, enriches articles using an LLM, and delivers decision-ready insights through Power BI.
 
