@@ -26,6 +26,27 @@ An automated data and AI intelligence platform that collects New Zealand AI news
 
 [Explore the NZ AI News Monitor →](https://github.com/lucy20080331-nz/nz-ai-news-monitor)
 
+## ⭐ Featured Project: Cross-Cloud Game Analytics Pipeline
+[![Cross-Cloud Game Analytics architecture and technology stack](./cross-cloud-game-analytics-social-preview.png)](https://github.com/lucy20080331-nz/Cross-Cloud-Game-Analytics)
+
+An end-to-end analytics pipeline that processes 5.7 million real Firebase game events across Google Cloud, AWS and Qlik Sense, transforming complex nested data into analysis-ready models and interactive insights.
+
+**Architecture**
+
+`Google BigQuery → Python → Amazon S3 → AWS Glue & Redshift Spectrum → Redshift STAGING/CORE/MART → Qlik Sense`
+
+**Key capabilities**
+
+- Migrated 114 days of Firebase event data from BigQuery to a partitioned S3 data lake
+- Preserved raw nested data in Parquet while validating row counts and file integrity
+- Used AWS Glue and Redshift Spectrum to query the RAW layer without duplicating storage
+- Flattened nested event parameters, user properties, device, geographic and traffic data
+- Built STAGING, CORE and MART layers with deduplication and reusable dimensional models
+- Prepared 5.7 million events, 74,000 sessions and 15,000+ users for game-performance analysis
+- Delivered an executive Qlik Sense dashboard for player activity, event trends and gameplay performance
+
+[Explore the Cross-Cloud Game Analytics Pipeline →](https://github.com/lucy20080331-nz/Cross-Cloud-Game-Analytics)
+
 ## Other Projects
 
 ### Selwyn Campground Booking System
@@ -49,7 +70,8 @@ An archived e-commerce case study demonstrating customer roles, ordering workflo
 ## Technical Skills
 
 - **Data and analytics:** SQL, Python, Power BI, Excel and R
-- **Data engineering:** Snowflake, dbt, ETL/ELT and incremental pipelines
+- **Cloud and data engineering:** AWS Redshift, S3, Glue, Redshift Spectrum, Google BigQuery, Snowflake, dbt, ETL/ELT and incremental pipelines
+- **Business intelligence:** Power BI, Qlik Sense and data visualisation
 - **AI:** LLM integration, machine learning and automated enrichment
 - **Development:** Flask, MySQL, Git and GitHub Actions
 - **Business:** Customer insights, marketing analytics and process improvement
