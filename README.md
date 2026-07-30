@@ -27,7 +27,7 @@ An automated data and AI intelligence platform that collects New Zealand AI news
 [Explore the NZ AI News Monitor →](https://github.com/lucy20080331-nz/nz-ai-news-monitor)
 
 ## ⭐ Featured Project: Cross-Cloud Game Analytics Pipeline
-[![Cross-Cloud Game Analytics architecture and technology stack](./cross-cloud-game-analytics-social-preview.png)](https://github.com/lucy20080331-nz/Cross-Cloud-Game-Analytics)
+[![Cross-Cloud Game Analytics architecture and technology stack](https://raw.githubusercontent.com/lucy20080331-nz/Cross-Cloud-Game-Analytics/main/docs/architecture.png)](https://github.com/lucy20080331-nz/Cross-Cloud-Game-Analytics)
 
 An end-to-end analytics pipeline that processes 5.7 million real Firebase game events across Google Cloud, AWS and Qlik Sense, transforming complex nested data into analysis-ready models and interactive insights.
 
