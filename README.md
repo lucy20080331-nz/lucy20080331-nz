@@ -28,7 +28,7 @@ An automated data and AI intelligence platform that collects New Zealand AI news
 
 ## ⭐ Featured Project: Google Merchandise Store GA4 Analytics
 
-[![Google Merchandise Store GA4 Analytics](./ga4_project_cover.png)](https://github.com/lucy20080331-nz/ga4_analytics)
+[![Google Merchandise Store GA4 Analytics](./docs/ga4_project_cover.png)](https://github.com/lucy20080331-nz/ga4_analytics)
 
 An end-to-end digital analytics solution that transforms nested GA4 e-commerce event data in BigQuery into tested, business-ready models and actionable customer and product insights in Power BI.
 
