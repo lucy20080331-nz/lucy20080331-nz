@@ -26,6 +26,33 @@ An automated data and AI intelligence platform that collects New Zealand AI news
 
 [Explore the NZ AI News Monitor →](https://github.com/lucy20080331-nz/nz-ai-news-monitor)
 
+## ⭐ Featured Project: Google Merchandise Store GA4 Analytics
+
+[![Google Merchandise Store GA4 Analytics](./ga4-analytics-social-preview.png)](https://github.com/lucy20080331-nz/ga4_analytics)
+
+An end-to-end digital analytics solution that transforms nested GA4 e-commerce event data in BigQuery into tested, business-ready models and actionable customer and product insights in Power BI.
+
+**Architecture**
+
+`GA4 → BigQuery → dbt STG/INT/MART → Power BI`
+
+**Project scale**
+
+`4.30M Events | 360K Sessions | 270K Users | 1,398 Products | $362K Revenue`
+
+**Key capabilities**
+
+- Transform nested and repeated GA4 event data into analytics-ready models
+- Build reusable dbt staging, intermediate and mart layers
+- Profile data quality and prioritize reliable business signals
+- Reconstruct session, customer and product-level analytics
+- Model executive KPIs, engagement and conversion funnels
+- Identify actionable customer and product segments
+- Deliver interactive Executive, Customer and Product Power BI dashboards
+- Prepare segmentation outputs for future CDP, Braze and CRM activation
+
+[Explore the GA4 E-commerce Analytics Project →](https://github.com/lucy20080331-nz/ga4_analytics)
+
 ## ⭐ Featured Project: Cross-Cloud Game Analytics Pipeline
 [![Cross-Cloud Game Analytics architecture and technology stack](https://raw.githubusercontent.com/lucy20080331-nz/Cross-Cloud-Game-Analytics/main/docs/architecture.png)](https://github.com/lucy20080331-nz/Cross-Cloud-Game-Analytics)
 
